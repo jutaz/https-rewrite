@@ -1,6 +1,6 @@
 {
   "name": "https-rewrite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rewrites http requests to https",
   "main": "index.js",
   "author": "jutaz",
