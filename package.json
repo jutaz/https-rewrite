@@ -1,0 +1,22 @@
+{
+  "name": "https-rewrite",
+  "version": "1.0.0",
+  "description": "Rewrites http requests to https",
+  "main": "index.js",
+  "author": "jutaz",
+  "repository": "jutaz/https-rewrite",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "middleware",
+    "http",
+    "https"
+  ],
+  "peerDependencies": {
+    "express": "^4.0.0"
+  },
+  "license": "MIT"
+}
